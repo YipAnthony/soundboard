@@ -3,7 +3,7 @@ Virtual soundboard triggered by keyboard numberpad keystrokes. Preloaded soundba
 
 [Link](https://themddropout.com/projects/soundboard/)
 
-<img src="/images/soundboard1.png" width="450"/> <img src="/images/soundboard2.png" width="450"/>
+<img src="/images/soundboard1.png" width="500"/> <img src="/images/soundboard2.png" width="500"/>
 
 ## Instructions
 The soundboard is designed to mimic the layout of a keyboard numberpad. Pressing a number on your keyboard will activate the corresponding box on the soundboard.
