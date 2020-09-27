@@ -1,7 +1,7 @@
 # Soundboard
 Virtual soundboard triggered by keyboard numberpad keystrokes. Preloaded soundbar allows users to select from various sound types and instruments. 
 
-[Link](https://themddropout.com/projects/soundboard/)
+[Link](https://yipanthony.github.io/soundboard/.)
 
 <img src="/images/soundboard1.png" width="500"/> <img src="/images/soundboard2.png" width="500"/>
 
